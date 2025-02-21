@@ -17,10 +17,10 @@ This **fake store website** was developed in just **one week** as a **college pr
 ### 🏠 Home Page
 
 **Desktop:**\
- <img src="./images/home-desk.jpg" alt="Home" width="700">
+ <img src="./images/home-desk.png" alt="Home" width="700">
 
 **Mobile:**\
- <img src="./images/home-mob.jpg" alt="Home" width="500">
+ <img src="./images/home-mob.png" alt="Home" width="500">
 
 ### 🛍️ Product Modal
 
