@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+
 # 🛒 Fake Store Website with OOP
 
 This **fake store website** was developed in just **one week** as a **college project**, utilizing **JavaScript** and **Object-Oriented Programming (OOP)** principles. The site dynamically fetches and displays product data from an API, providing a seamless shopping experience.
