@@ -25,18 +25,18 @@ This **fake store website** was developed in just **one week** as a **college pr
 ### 🛍️ Product Modal
 
 **Desktop:**\
- <img src="./images/modal-desk.jpg" alt="Modal" width="700">
+ <img src="./images/modal-desk.png" alt="Modal" width="700">
 
 **Mobile:**\
- <img src="./images/modal-mob.jpg" alt="Modal" width="500">
+ <img src="./images/modal-mob.png" alt="Modal" width="500">
 
 ### 🛒 Shopping Cart
 
 **Desktop:**\
- <img src="./images/cart-desk.jpg" alt="Cart" width="700">
+ <img src="./images/cart-desk.png" alt="Cart" width="700">
 
 **Mobile:**\
- <img src="./images/cart-mob.jpg" alt="Cart" width="500">
+ <img src="./images/cart-mob.png" alt="Cart" width="500">
 
 ## 🛠️ Technologies Used
 
